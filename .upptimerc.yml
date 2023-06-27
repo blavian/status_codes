@@ -3,14 +3,10 @@ owner: blavian # Your GitHub organization or username, where this repository liv
 repo: status_codes # The name of this repository
 
 sites:
-  - name: PM Stage
-    url: https://www.apollo.stage.mpulsemobile.com
-  - name: Pm Prod
-    url: https://www.apollo.mpulsemobile.com
   - name: Auth
-    url: https://www.auth.mpulsemobile.com
+    url: https://auth.mpulsemobile.com/
   - name: Auth stage
-    url: https://www.auth.stage.mpulsemobile.com
+    url: https://auth.stage.mpulsemobile.com/
   
 
 
