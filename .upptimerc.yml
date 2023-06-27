@@ -7,8 +7,14 @@ sites:
     url: https://auth.mpulsemobile.com/
   - name: Auth stage
     url: https://auth.stage.mpulsemobile.com/
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Link Shortener Stage
+    method: POST
+    url: https://stage-shorten.mpulse.io/account/1131/shorten_url/
+    headers:
+    - "Authorization: $AUTH
+    - "Content-Type: application/json"
+    body: '{ "member_id": "123456","url":"https:/www.google.com","branding_code": "Me"}'
+
   
 
 
