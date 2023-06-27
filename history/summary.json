@@ -5,36 +5,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.apollo.stage.mpulsemobile.com.ico",
     "slug": "pm-stage",
     "status": "down",
-    "uptime": "16.63%",
-    "uptimeDay": "16.63%",
-    "uptimeWeek": "16.63%",
-    "uptimeMonth": "16.63%",
-    "uptimeYear": "16.63%",
+    "uptime": "0.86%",
+    "uptimeDay": "0.86%",
+    "uptimeWeek": "0.86%",
+    "uptimeMonth": "0.86%",
+    "uptimeYear": "0.86%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 0
+      "2023-06-27": 4
     }
   },
   {
     "name": "Pm Prod",
-    "url": "https://apollo.mpulsemobile.com",
-    "icon": "https://icons.duckduckgo.com/ip3/apollo.mpulsemobile.com.ico",
+    "url": "https://www.apollo.stage.mpulsemobile.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.apollo.stage.mpulsemobile.com.ico",
     "slug": "pm-prod",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 632,
     "timeDay": 632,
     "timeWeek": 632,
     "timeMonth": 632,
     "timeYear": 632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-27": 0
+    }
   }
 ]
