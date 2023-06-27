@@ -6,7 +6,7 @@ sites:
   - name: PM Stage
     url: https://www.apollo.stage.mpulsemobile.com
   - name: Pm Prod
-    url: https://apollo.mpulsemobile.com
+    url: https://www.apollo.stage.mpulsemobile.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
