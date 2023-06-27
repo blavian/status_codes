@@ -7,6 +7,8 @@ sites:
     url: https://auth.mpulsemobile.com/
   - name: Auth stage
     url: https://auth.stage.mpulsemobile.com/
+  - name: Secret Site
+    url: $SECRET_SITE
   
 
 
