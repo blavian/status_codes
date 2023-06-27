@@ -1,82 +1,42 @@
 [
   {
-    "name": "PM Stage",
-    "url": "https://www.apollo.stage.mpulsemobile.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.apollo.stage.mpulsemobile.com.ico",
-    "slug": "pm-stage",
-    "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-06-27": 14
-    }
-  },
-  {
-    "name": "Pm Prod",
-    "url": "https://www.apollo.mpulsemobile.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.apollo.mpulsemobile.com.ico",
-    "slug": "pm-prod",
-    "status": "down",
-    "uptime": "24.11%",
-    "uptimeDay": "24.11%",
-    "uptimeWeek": "24.11%",
-    "uptimeMonth": "24.11%",
-    "uptimeYear": "24.11%",
-    "time": 632,
-    "timeDay": 632,
-    "timeWeek": 632,
-    "timeMonth": 632,
-    "timeYear": 632,
-    "dailyMinutesDown": {
-      "2023-06-27": 11
-    }
-  },
-  {
     "name": "Auth",
-    "url": "https://www.auth.mpulsemobile.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.auth.mpulsemobile.com.ico",
+    "url": "https://auth.mpulsemobile.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.mpulsemobile.com.ico",
     "slug": "auth",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.02%",
+    "uptimeDay": "2.02%",
+    "uptimeWeek": "2.02%",
+    "uptimeMonth": "2.02%",
+    "uptimeYear": "2.02%",
+    "time": 384,
+    "timeDay": 384,
+    "timeWeek": 384,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2023-06-27": 0
+      "2023-06-27": 4
     }
   },
   {
     "name": "Auth stage",
-    "url": "https://www.auth.stage.mpulsemobile.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.auth.stage.mpulsemobile.com.ico",
+    "url": "https://auth.stage.mpulsemobile.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.stage.mpulsemobile.com.ico",
     "slug": "auth-stage",
-    "status": "down",
-    "uptime": "6.67%",
-    "uptimeDay": "6.67%",
-    "uptimeWeek": "6.67%",
-    "uptimeMonth": "6.67%",
-    "uptimeYear": "6.67%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.45%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "1.45%",
+    "uptimeMonth": "1.45%",
+    "uptimeYear": "1.45%",
+    "time": 337,
+    "timeDay": 337,
+    "timeWeek": 337,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-06-27": 0
+      "2023-06-27": 4
     }
   }
 ]
